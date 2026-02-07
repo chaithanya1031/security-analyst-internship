@@ -17,6 +17,8 @@ To configure a basic firewall using UFW that allows SSH traffic and blocks HTTP 
 - Firewalls protect systems from unauthorized access
 - Restricting open ports reduces attack surface
 - UFW provides simple and effective firewall management
+## Demo video
+https://drive.google.com/file/d/1rhcC0MOF2Rz1PcNcWqAhkSJLzcrhlVhN/view?usp=drive_link
 
 ## Conclusion
 This task demonstrates how firewall rules can be configured to control network access and improve system security.
