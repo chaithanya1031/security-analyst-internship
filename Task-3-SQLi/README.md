@@ -29,6 +29,8 @@ SQL Injection occurs when user input is directly included in an SQL query withou
 - Input validation
 - Prepared statements
 - Parameterized queries
+## Demo video
+https://drive.google.com/file/d/1fIWloFkggczIHs7Nwtqa3zmuDOcSwti4/view?usp=drive_link
 
 ## Conclusion
 This task demonstrates how improper input handling can lead to critical security vulnerabilities.
